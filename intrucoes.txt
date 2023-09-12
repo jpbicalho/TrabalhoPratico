@@ -1,0 +1,9 @@
+diretivas de compilacao:
+
+g++ modoFuncionario.cpp modoGerente.cpp chefe.cpp funcionario.cpp horario.cpp menu.cpp pessoa.cpp vendas.cpp -c -Wall
+g++ modoFuncionario.o modoGerente.o  chefe.o funcionario.o horario.o menu.o pessoa.o vendas.o  main.cpp -o e.exe -Wall
+.\e.exe
+
+https://youtu.be/bv5V7EHOeI0
+
+
